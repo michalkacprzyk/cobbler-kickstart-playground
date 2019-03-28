@@ -13,7 +13,7 @@ Can be used as a playground for prototyping and testing *cobbler* and *kickstart
 Automated installation from sources was inspired by mismatch in libraries version
 in *epel* repositories for *CentOS7*, between *cobbler-web* and *django*,
 resulting in a broken *cobbler-web* installation. Also, having the source deployment
-process in place, makes some prototyping experiments easier.
+process in place makes some prototyping experiments easier.
 
 ## How to?
 ### Cobbler Master VM
